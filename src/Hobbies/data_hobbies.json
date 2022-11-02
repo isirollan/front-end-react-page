@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "hobbie": "I love Mountainbiking, specially Enduro (downhill):",
+        "details":[{"list": "You can check my instagram profile at https://www.instagram.com/hey_rollan/ (and follow me!)" }]       
+        },
+    {
+        "id": 2,
+        "hobbie":"I love art specially portrait drawing, freestyle embroidery and watercolors:",
+        "details":[{"list": "You can check more of my artwork at https://www.instagram.com/sinistram_art/ ." }]
+
+    },
+    {
+        "id":3,
+        "hobbie": "I am learning to code:",
+        "details":[{"list":"In python." },
+        {"list": "In front-end languages as HTML, CSS, Java and React."}]
+    }
+]
